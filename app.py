@@ -1,2 +1,3 @@
-print("Bonjour DevOps") 
-print("Bienvenue à l'esigelec")
+# app.py
+def add(a, b):
+    return a + b
