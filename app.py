@@ -1,2 +1,4 @@
 print("Bonjour DevOps") 
-print("Bienvenue à l'esigelec")
+print("Welcome to esigelec")
+print("Bienvenue à l'esigelec en 2026")
+print("--FIN---")
